@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://bnahh2vfmqc0i"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="greeting_brian" type="Label" parent="."]
+offset_left = 313.0
+offset_top = 275.0
+offset_right = 1040.1738
+offset_bottom = 350.0
+theme_override_font_sizes/font_size = 35
+text = "Hello Brian. Welcome to hell."
