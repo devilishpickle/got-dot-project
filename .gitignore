@@ -1,3 +1,16 @@
-# Godot 4+ specific ignores
+# Godot build/import caches (regenerate automatically)
+.import/
 .godot/
-/android/
+mono/
+
+# Exported builds
+bin/
+export/
+
+# Editor/IDE junk
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
